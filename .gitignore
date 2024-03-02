@@ -1,1 +1,3 @@
 backend.test.js
+*.log       
+// ever .log in gitignore
